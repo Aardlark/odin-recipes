@@ -1,0 +1,30 @@
+
+div {
+    background-color: rgb(245, 225, 201);
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    font-size: 22px;
+    border-style: double;
+    border-color:rgb(167, 198, 151);
+    border-width: thick;
+    
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.list {
+    text-align: center;
+    font-size: 24px;
+}
